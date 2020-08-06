@@ -5,7 +5,8 @@
       "flex-layout.row",
       "flex-layout.col",
       "image#electronics",
-      "image#major-appliance"
+      "image#major-appliance",
+      "shelf"
     ]
   },
   "flex-layout.row": {
