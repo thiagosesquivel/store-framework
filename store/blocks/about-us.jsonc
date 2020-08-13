@@ -48,8 +48,11 @@
       "label":"Electronics"
     }
   },
-  "tab-content#home":{
-    "children":["tab-content.item#1", "tab-content.item#2"]
+  "tab-content#home": {
+    "children": [
+      "tab-content.item#1",
+      "tab-content.item#2"
+      ]
   },
   "tab-content.item#1":{
     "children":["rich-text#home1"],
