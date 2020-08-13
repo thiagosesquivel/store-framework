@@ -38,12 +38,14 @@
   "tab-list.item#home1":{
     "props":{
       "tabId":"majorAppliances",
-      "defaultActiveTab":true
+      "defaultActiveTab":true,
+      "label":"Major Appliances"
     }
   },
    "tab-list.item#home2":{
     "props":{
-      "tabId":"electronics" 
+      "tabId":"electronics" ,
+      "label":"Electronics"
     }
   },
   "tab-content#home":{
