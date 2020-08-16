@@ -13,10 +13,10 @@
     },
     "search-result-layout.customQuery":{
         "props":{
-            "orderByField": "OrderByReleaseDateDESC",
-            "hideUnavailableItems": true,
-            "maxItemsPerPage":8,
             "queryField":{
+                "orderByField": "OrderByReleaseDateDESC",
+                "hideUnavailableItems": true,
+                "maxItemsPerPage":8,
                 "skusFilter":"Blue_Top_Retro_Camera"
             }
         }
